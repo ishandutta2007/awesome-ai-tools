@@ -105,6 +105,13 @@
 - **Phi-4 / Phi-4-mini**
 - **Command R+ (Cohere)**
 
+
+
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/awesome-ai-tools&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/awesome-ai-tools&type=date&legend=top-left)
+
+
 ## Contributing 🤝
 
 **We want your help to keep this list the best AI tools directory on GitHub!**

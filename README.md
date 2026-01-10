@@ -132,6 +132,14 @@
 
 Thank you to everyone who helps keep this list **fresh and useful**! ❤️
 
+## 💬 Community & Support
+
+-   **📚 [Documentation](https://docs.open-workflows.com):** Check out our official documentation for detailed guides and tutorials.
+-   **🗣️ [Forum](https://community.open-workflows.com):** Join our community forum to ask questions, share your projects, and connect with other users.
+-   **💬 [Discord](https://discord.com/invite/jc4xtF58Ve):** Chat with us on Discord for real-time support and discussions.
+-   **🐦 [Twitter](https://twitter.com/ishandutta2007):** Follow us on Twitter for the latest news and updates.
+-   **🐦 [Github](https://github.com/ishandutta2007):** Follow me on Github for the latest commits and updates.
+
 ---
 
 *Last major update: January 10, 2026*  

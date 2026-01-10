@@ -140,6 +140,16 @@ Thank you to everyone who helps keep this list **fresh and useful**! ❤️
 -   **🐦 [Twitter](https://twitter.com/ishandutta2007):** Follow us on Twitter for the latest news and updates.
 -   **🐦 [Github](https://github.com/ishandutta2007):** Follow me on Github for the latest commits and updates.
 
+
+## 💖 Support & Sponsorship
+
+If you find this project helpful or if it has saved you time and resources, please consider sponsoring the development. Your support helps maintain the project, develop new features, and keep the initiative open-source.
+
+**[Sponsor @ishandutta2007 on GitHub](https://github.com/sponsors/ishandutta2007)**
+
+Every contribution, no matter how small, makes a huge difference!
+
+
 ---
 
 *Last major update: January 10, 2026*  

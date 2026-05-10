@@ -16,6 +16,7 @@
 |------|---------------------------|-------------------------------------------|-----------------------------------------------------------|---------------|
 | 1    | **Best Open Reasoning**   | **DeepSeek-R1** • **DeepSeek-V3**         | Currently the strongest open math & coding models         | 🚀 Exploding |
 | 2    | **Best Open Image Gen**   | **Flux.1 [pro/dev/schnell]**              | Still the #1 open-source image model right now            | ★★★★★        |
+| [NotFair](https://notfair.co) | Google Ads MCP server for AI agents. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
 | 3    | **Fastest LLM Inference** | **Groq** • **Fireworks** • **Together**   | Blazing fast inference platforms                          | ⚡ Very high |
 | 4    | **Best AI Code Editor**   | **Cursor** • **Windsurf** • **Continue**  | AI-first IDEs revolutionizing coding                      | Very high    |
 | 5    | **Best Autonomous Agent** | **OpenAI Operator** • **Manus**           | Browser-controlling agents that actually work             | Rising fast  |

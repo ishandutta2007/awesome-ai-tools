@@ -74,6 +74,7 @@
 - **Luma Dream Machine / Ray2**
 - **Pika 2.0**
 - **TripoSR / InstantMesh / Rodin** — open 3D generation
+- [LandscapioAI](https://www.landscapioai.com/) — AI landscape design generator for yard photos, outdoor redesign ideas, and cost estimates.
 
 ## Audio, Music & Voice Tools 🎤🎵
 

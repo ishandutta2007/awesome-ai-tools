@@ -62,6 +62,8 @@
 - **Cline** — command-line AI coding agent
 - **Devin (Cognition)** — autonomous software engineer (waitlist)
 - **Sweep.dev** — AI that fixes GitHub issues
+- **toprank** — open-source Claude Code plugin for SEO & Google Ads ([GitHub](https://github.com/nowork-studio/toprank))
+
 
 ## Image, Video & 3D Generation 🖼️🎥
 

@@ -72,6 +72,7 @@
 - **Midjourney v7** — still king for artistic quality
 - **Ideogram 2.0** — best text-in-image
 - **Leonardo.Ai** — great for game assets
+- [Aurcue](https://www.aurcue.com) — AI personal style assistant for color analysis, outfit ideas, hairstyle direction, glasses suggestions, and seasonal styling from one photo.
 - **Runway Gen-3 Alpha / Turbo**
 - **Kling 2.0** — best Chinese video model
 - **Luma Dream Machine / Ray2**

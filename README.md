@@ -116,6 +116,10 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/awesome-ai-tools&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/awesome-ai-tools&type=date&legend=top-left)
 
 
+## Productivity, Writing & Automation ⚙️
+
+- [TinyTools](https://tinytools-smoky.vercel.app/) — Free browser-based utilities: AI background remover (runs locally), AI cost calculator, AI content disclosure generator (EU AI Act compliant), AI robots.txt generator, OG image generator, favicon generator, domain name generator, color palette generator & SEO meta tag generator. No signup required. Open source.
+
 ## Contributing 🤝
 
 **We want your help to keep this list the best AI tools directory on GitHub!**

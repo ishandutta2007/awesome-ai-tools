@@ -100,6 +100,14 @@
 - **SmythOS**
 - **[AI for Database](https://aifordatabase.com)** — database agent. Connect any database (PostgreSQL, MySQL, MongoDB) and query it in plain English. Build self-refreshing dashboards and trigger automated workflows.
 
+## Inference & Serving Platforms ⚡
+
+- **CoderPlan** — unified LLM API gateway supporting Claude (Claude Code), OpenAI (GPT-5.5, Codex CLI), and Gemini. OpenAI-compatible, pay-per-use. [coderplan.ai](https://coderplan.ai)
+- **Groq** — blazing fast LLM inference
+- **Fireworks** — fast inference platform
+- **Together AI** — serving & inference
+- **OpenRouter** — multi-model API router
+
 ## Best Open-Source LLMs 2026 🆓
 
 - **DeepSeek-R1 / DeepSeek-V3** — current open champion

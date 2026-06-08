@@ -98,6 +98,7 @@
 - **AgentGPT**
 - **SuperAGI**
 - **SmythOS**
+- **[AI for Database](https://aifordatabase.com)** — database agent. Connect any database (PostgreSQL, MySQL, MongoDB) and query it in plain English. Build self-refreshing dashboards and trigger automated workflows.
 
 ## Best Open-Source LLMs 2026 🆓
 

@@ -1,14 +1,23 @@
 # Awesome AI Tools 2026 🚀🤖🧠
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+<div align="center">
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/awesome-ai-tools?style=social)](https://github.com/yourusername/awesome-ai-tools/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/awesome-ai-tools?style=social)](https://github.com/yourusername/awesome-ai-tools/network)
 [![License](https://img.shields.io/badge/license-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Last Updated](https://img.shields.io/badge/Updated-January%202026-blue)](https://github.com/yourusername/awesome-ai-tools/commits/main)
+<br />
+<a href="https://github.com/ishandutta2007?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ishandutta2007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+
+
 
 **The most comprehensive curated list of the best AI tools, models, frameworks, agents, editors, generators & platforms in 2026** — your ultimate resource for discovering, comparing, and staying ahead in the fast-moving **AI ecosystem** 🌌
 
 > Perfect for developers, researchers, founders, creators, and anyone building or using **AI in 2026**!
+</div>
 
 ## ✨ Top Trending AI Tools & Models – January 2026 🔥
 

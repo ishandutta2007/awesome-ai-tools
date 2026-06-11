@@ -84,6 +84,7 @@
 - [Aurcue](https://www.aurcue.com) — AI personal style assistant for color analysis, outfit ideas, hairstyle direction, glasses suggestions, and seasonal styling from one photo.
 - **Runway Gen-3 Alpha / Turbo**
 - **Kling 2.0** — best Chinese video model
+- [ImagineClip](https://imagineclip.com?ref=ishandutta2007-awesome-ai-tools) — AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
 - **Luma Dream Machine / Ray2**
 - **Pika 2.0**
 - **TripoSR / InstantMesh / Rodin** — open 3D generation

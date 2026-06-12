@@ -52,80 +52,94 @@
 
 ## LLM Chat Interfaces & Frontends 💬
 
-- [ChatGPT](https://chatgpt.com) — still the most popular interface
-- [Claude](https://claude.ai) — best UX for long context & reasoning
-- [Gemini](https://gemini.google.com) — excellent multimodal + Google integration
-- [Perplexity](https://perplexity.ai) — #1 answer engine with real-time web
-- [Grok](https://grok.x.ai) — real-time knowledge + great personality
-- [Poe](https://poe.com) — access almost every frontier model in one place
-- [Le Chat Mistral](https://chat.mistral.ai) — fastest European alternative
-- [You.com](https://you.com) — strong agentic features
+| Tool | Description |
+| :--- | :--- |
+| [ChatGPT](https://chatgpt.com) | still the most popular interface |
+| [Claude](https://claude.ai) | best UX for long context & reasoning |
+| [Gemini](https://gemini.google.com) | excellent multimodal + Google integration |
+| [Perplexity](https://perplexity.ai) | #1 answer engine with real-time web |
+| [Grok](https://grok.x.ai) | real-time knowledge + great personality |
+| [Poe](https://poe.com) | access almost every frontier model in one place |
+| [Le Chat Mistral](https://chat.mistral.ai) | fastest European alternative |
+| [You.com](https://you.com) | strong agentic features |
 
 ## Code Generation & AI Coding Tools 💻
 
-- **Cursor** — the most loved AI-first code editor
-- **Windsurf** — rising fast competitor to Cursor
-- **Continue.dev** — best open-source AI code assistant
-- **GitHub Copilot (2026 edition)**
-- **Aider** — terminal-based AI pair programmer
-- **Cline** — command-line AI coding agent
-- **Devin (Cognition)** — autonomous software engineer (waitlist)
-- **Sweep.dev** — AI that fixes GitHub issues
-- **toprank** — open-source Claude Code plugin for SEO & Google Ads ([GitHub](https://github.com/nowork-studio/toprank))
+| Tool | Description |
+| :--- | :--- |
+| **Cursor** | the most loved AI-first code editor |
+| **Windsurf** | rising fast competitor to Cursor |
+| **Continue.dev** | best open-source AI code assistant |
+| **GitHub Copilot (2026 edition)** | AI-powered code completion and assistance |
+| **Aider** | terminal-based AI pair programmer |
+| **Cline** | command-line AI coding agent |
+| **Devin (Cognition)** | autonomous software engineer (waitlist) |
+| **Sweep.dev** | AI that fixes GitHub issues |
+| **toprank** | open-source Claude Code plugin for SEO & Google Ads ([GitHub](https://github.com/nowork-studio/toprank)) |
 
 
 ## Image, Video & 3D Generation 🖼️🎥
 
-- **Flux.1 [pro/dev/schnell]** — best open-source right now
-- **Midjourney v7** — still king for artistic quality
-- **Ideogram 2.0** — best text-in-image
-- **Leonardo.Ai** — great for game assets
-- [Aurcue](https://www.aurcue.com) — AI personal style assistant for color analysis, outfit ideas, hairstyle direction, glasses suggestions, and seasonal styling from one photo.
-- **Runway Gen-3 Alpha / Turbo**
-- **Kling 2.0** — best Chinese video model
-- [ImagineClip](https://imagineclip.com?ref=ishandutta2007-awesome-ai-tools) — AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
-- **Luma Dream Machine / Ray2**
-- **Pika 2.0**
-- **TripoSR / InstantMesh / Rodin** — open 3D generation
+| Tool | Description |
+| :--- | :--- |
+| **Flux.1 [pro/dev/schnell]** | best open-source right now |
+| **Midjourney v7** | still king for artistic quality |
+| **Ideogram 2.0** | best text-in-image |
+| **Leonardo.Ai** | great for game assets |
+| [Aurcue](https://www.aurcue.com) | AI personal style assistant for color analysis, outfit ideas, hairstyle direction, glasses suggestions, and seasonal styling from one photo. |
+| **Runway Gen-3 Alpha / Turbo** | Professional-grade AI video generation |
+| **Kling 2.0** | best Chinese video model |
+| [ImagineClip](https://imagineclip.com?ref=ishandutta2007-awesome-ai-tools) | AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects. |
+| **Luma Dream Machine / Ray2** | Cinematic video generation |
+| **Pika 2.0** | High-quality video generation |
+| **TripoSR / InstantMesh / Rodin** | open 3D generation |
 
 ## Audio, Music & Voice Tools 🎤🎵
 
-- **ElevenLabs** — most realistic voice cloning
-- **Cartesia** — ultra-low latency TTS
-- **Spark-TTS** — best open-source TTS
-- **Suno v4** — best AI music generation
-- **Udio** — strong competitor to Suno
-- **Stable Audio 2.0**
+| Tool | Description |
+| :--- | :--- |
+| **ElevenLabs** | most realistic voice cloning |
+| **Cartesia** | ultra-low latency TTS |
+| **Spark-TTS** | best open-source TTS |
+| **Suno v4** | best AI music generation |
+| **Udio** | strong competitor to Suno |
+| **Stable Audio 2.0** | AI audio and music generation |
 
 ## AI Agents & Autonomous Systems 🤖
 
-- **OpenAI Operator** — browser agent
-- **Manus** — rising autonomous agent
-- **CrewAI** — multi-agent orchestration
-- **LangGraph** — most popular agent framework
-- **AutoGen (Microsoft)**
-- **AgentGPT**
-- **SuperAGI**
-- **SmythOS**
-- **[AI for Database](https://aifordatabase.com)** — database agent. Connect any database (PostgreSQL, MySQL, MongoDB) and query it in plain English. Build self-refreshing dashboards and trigger automated workflows.
+| Tool | Description |
+| :--- | :--- |
+| **OpenAI Operator** | browser agent |
+| **Manus** | rising autonomous agent |
+| **CrewAI** | multi-agent orchestration |
+| **LangGraph** | most popular agent framework |
+| **AutoGen (Microsoft)** | Framework for multi-agent conversations |
+| **AgentGPT** | Autonomous AI agents in the browser |
+| **SuperAGI** | Infrastructure for autonomous AI agents |
+| **SmythOS** | Operating system for AI agents |
+| **[AI for Database](https://aifordatabase.com)** | database agent. Connect any database (PostgreSQL, MySQL, MongoDB) and query it in plain English. |
 
 ## Inference & Serving Platforms ⚡
 
-- **CoderPlan** — unified LLM API gateway supporting Claude (Claude Code), OpenAI (GPT-5.5, Codex CLI), and Gemini. OpenAI-compatible, pay-per-use. [coderplan.ai](https://coderplan.ai)
-- **Groq** — blazing fast LLM inference
-- **Fireworks** — fast inference platform
-- **Together AI** — serving & inference
-- **OpenRouter** — multi-model API router
+| Platform | Description |
+| :--- | :--- |
+| **CoderPlan** | unified LLM API gateway supporting Claude, OpenAI, and Gemini. [coderplan.ai](https://coderplan.ai) |
+| **Groq** | blazing fast LLM inference |
+| **Fireworks** | fast inference platform |
+| **Together AI** | serving & inference |
+| **OpenRouter** | multi-model API router |
 
 ## Best Open-Source LLMs 2026 🆓
 
-- **DeepSeek-R1 / DeepSeek-V3** — current open champion
-- **Llama 4 / Llama 3.3 / Llama 3.1 405B**
-- **Qwen 2.5 / Qwen-Max**
-- **Mistral Large 2 / Pixtral Large / Devstral**
-- **Gemma 3**
-- **Phi-4 / Phi-4-mini**
-- **Command R+ (Cohere)**
+| Model | Description |
+| :--- | :--- |
+| **DeepSeek-R1 / DeepSeek-V3** | current open champion |
+| **Llama 4 / Llama 3.3 / Llama 3.1 405B** | Meta's state-of-the-art open models |
+| **Qwen 2.5 / Qwen-Max** | Alibaba's powerful LLM family |
+| **Mistral Large 2 / Pixtral Large / Devstral** | Mistral AI's flagship open models |
+| **Gemma 3** | Google's latest open models |
+| **Phi-4 / Phi-4-mini** | Microsoft's small language models |
+| **Command R+ (Cohere)** | Optimized for RAG and tool use |
 
 
 
@@ -136,7 +150,9 @@
 
 ## Productivity, Writing & Automation ⚙️
 
-- [TinyTools](https://tinytools-smoky.vercel.app/) — Free browser-based utilities: AI background remover (runs locally), AI cost calculator, AI content disclosure generator (EU AI Act compliant), AI robots.txt generator, OG image generator, favicon generator, domain name generator, color palette generator & SEO meta tag generator. No signup required. Open source.
+| Tool | Description |
+| :--- | :--- |
+| [TinyTools](https://tinytools-smoky.vercel.app/) | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. No signup required. Open source. |
 
 ## Contributing 🤝
 
@@ -160,11 +176,13 @@ Thank you to everyone who helps keep this list **fresh and useful**! ❤️
 
 ## 💬 Community & Support
 
--   **📚 [Documentation](https://docs.open-workflows.com):** Check out our official documentation for detailed guides and tutorials.
--   **🗣️ [Forum](https://community.open-workflows.com):** Join our community forum to ask questions, share your projects, and connect with other users.
--   **💬 [Discord](https://discord.com/invite/jc4xtF58Ve):** Chat with us on Discord for real-time support and discussions.
--   **🐦 [Twitter](https://twitter.com/ishandutta2007):** Follow us on Twitter for the latest news and updates.
--   **🐦 [Github](https://github.com/ishandutta2007):** Follow me on Github for the latest commits and updates.
+| Resource | Description |
+| :--- | :--- |
+| **📚 [Documentation](https://docs.open-workflows.com)** | Check out our official documentation for detailed guides and tutorials. |
+| **🗣️ [Forum](https://community.open-workflows.com)** | Join our community forum to ask questions, share your projects, and connect with other users. |
+| **💬 [Discord](https://discord.com/invite/jc4xtF58Ve)** | Chat with us on Discord for real-time support and discussions. |
+| **🐦 [Twitter](https://twitter.com/ishandutta2007)** | Follow us on Twitter for the latest news and updates. |
+| **🐦 [Github](https://github.com/ishandutta2007)** | Follow me on Github for the latest commits and updates. |
 
 
 ## 💖 Support & Sponsorship

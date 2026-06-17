@@ -52,94 +52,94 @@
 
 ## LLM Chat Interfaces & Frontends 💬
 
-| Tool | Description |
-| :--- | :--- |
-| [ChatGPT](https://chatgpt.com) | still the most popular interface |
-| [Claude](https://claude.ai) | best UX for long context & reasoning |
-| [Gemini](https://gemini.google.com) | excellent multimodal + Google integration |
-| [Perplexity](https://perplexity.ai) | #1 answer engine with real-time web |
-| [Grok](https://grok.x.ai) | real-time knowledge + great personality |
-| [Poe](https://poe.com) | access almost every frontier model in one place |
-| [Le Chat Mistral](https://chat.mistral.ai) | fastest European alternative |
-| [You.com](https://you.com) | strong agentic features |
+| Tool | Description | Pricing & Free Tier |
+| :--- | :--- | :--- |
+| [ChatGPT](https://chatgpt.com) | still the most popular interface | **Free:** Unlimited GPT-4o mini, limited GPT-4o. **Plus:** $20/mo. |
+| [Claude](https://claude.ai) | best UX for long context & reasoning | **Free:** Daily message limits. **Pro:** $20/mo. |
+| [Gemini](https://gemini.google.com) | excellent multimodal + Google integration | **Free:** Unlimited Flash models. **Advanced:** $19.99/mo. |
+| [Perplexity](https://perplexity.ai) | #1 answer engine with real-time web | **Free:** Unlimited basic search, 5 Pro searches/day. **Pro:** $20/mo. |
+| [Grok](https://grok.x.ai) | real-time knowledge + great personality | **X Premium required:** Starting at $8/mo. |
+| [Poe](https://poe.com) | access almost every frontier model in one place | **Free:** Compute point limits. **Subscription:** $19.99/mo. |
+| [Le Chat Mistral](https://chat.mistral.ai) | fastest European alternative | **Free:** Beta access, approx. 25 msgs/day. **Pro:** $14.99/mo. |
+| [You.com](https://you.com) | strong agentic features | **Free:** 25-query trial. **Pro:** $20/mo ($15/mo annual). |
 
 ## Code Generation & AI Coding Tools 💻
 
-| Tool | Description |
-| :--- | :--- |
-| **Cursor** | the most loved AI-first code editor |
-| **Windsurf** | rising fast competitor to Cursor |
-| **Continue.dev** | best open-source AI code assistant |
-| **GitHub Copilot (2026 edition)** | AI-powered code completion and assistance |
-| **Aider** | terminal-based AI pair programmer |
-| **Cline** | command-line AI coding agent |
-| **Devin (Cognition)** | autonomous software engineer (waitlist) |
-| **Sweep.dev** | AI that fixes GitHub issues |
-| **toprank** | open-source Claude Code plugin for SEO & Google Ads ([GitHub](https://github.com/nowork-studio/toprank)) |
+| Tool | Description | Pricing & Free Tier |
+| :--- | :--- | :--- |
+| **Cursor** | the most loved AI-first code editor | **Free:** 2,000 completions/mo, 50 premium requests. **Pro:** $20/mo. |
+| **Windsurf** | rising fast competitor to Cursor | **Free:** 25 prompt credits/mo, unlimited autocomplete. **Pro:** $15/mo. |
+| **Continue.dev** | best open-source AI code assistant | **Free:** Open-source extension. Pay for your own LLM API (BYOK). |
+| **GitHub Copilot (2026 edition)** | AI-powered code completion and assistance | **Free:** 2,000 completions/mo. **Pro:** $10/mo. **Enterprise:** $39/mo. |
+| **Aider** | terminal-based AI pair programmer | **Free:** Open-source. Pay for your own LLM API (BYOK). |
+| **Cline** | command-line AI coding agent | **Free:** Open-source. Pay for your own LLM API (BYOK). |
+| **Devin (Cognition)** | autonomous software engineer (waitlist) | **Free:** Light quota for agentic tasks. **Pro:** $20/mo. |
+| **Sweep.dev** | AI that fixes GitHub issues | **Free Trial** available. **Pro:** $20/mo. |
+| **toprank** | open-source Claude Code plugin for SEO & Google Ads | **Free:** Open-source ([GitHub](https://github.com/nowork-studio/toprank)). |
 
 
 ## Image, Video & 3D Generation 🖼️🎥
 
-| Tool | Description |
-| :--- | :--- |
-| **Flux.1 [pro/dev/schnell]** | best open-source right now |
-| **Midjourney v7** | still king for artistic quality |
-| **Ideogram 2.0** | best text-in-image |
-| **Leonardo.Ai** | great for game assets |
-| [Aurcue](https://www.aurcue.com) | AI personal style assistant for color analysis, outfit ideas, hairstyle direction, glasses suggestions, and seasonal styling from one photo. |
-| **Runway Gen-3 Alpha / Turbo** | Professional-grade AI video generation |
-| **Kling 2.0** | best Chinese video model |
-| ImagineClip | AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects. |
-| **Luma Dream Machine / Ray2** | Cinematic video generation |
-| **Pika 2.0** | High-quality video generation |
-| **TripoSR / InstantMesh / Rodin** | open 3D generation |
+| Tool | Description | Pricing & Free Tier |
+| :--- | :--- | :--- |
+| **Flux.1 [pro/dev/schnell]** | best open-source right now | **Free:** Open weights (Dev/Schnell). **API:** ~$0.05/img. |
+| **Midjourney v7** | still king for artistic quality | **Paid only:** Starting at $10/mo ($8/mo annual). |
+| **Ideogram 2.0** | best text-in-image | **Free:** 10 slow credits/week. **Plus:** $20/mo ($15/mo annual). |
+| **Leonardo.Ai** | great for game assets | **Free:** 150 daily tokens. **Apprentice:** $12/mo. |
+| [Aurcue](https://www.aurcue.com) | AI personal style assistant for styling from one photo. | **Free Trial** available. **Pro:** ~$10/mo. |
+| **Runway Gen-3 Alpha / Turbo** | Professional-grade AI video generation | **Free:** 125 one-time credits. **Standard:** $15/mo. |
+| **Kling 2.0** | best Chinese video model | **Free:** 66 daily credits. **Standard:** $10/mo. |
+| ImagineClip | AI video generator for social clips and stylized scenes. | **Free Trial** available. **Pro:** ~$15/mo. |
+| **Luma Dream Machine / Ray2** | Cinematic video generation | **Free:** 30 generations/mo. **Lite:** $9.99/mo. |
+| **Pika 2.0** | High-quality video generation | **Free:** 80 monthly credits. **Standard:** $10/mo. |
+| **TripoSR / InstantMesh / Rodin** | open 3D generation | **Free:** Open-source / Free to run locally. |
 
 ## Audio, Music & Voice Tools 🎤🎵
 
-| Tool | Description |
-| :--- | :--- |
-| **ElevenLabs** | most realistic voice cloning |
-| **Cartesia** | ultra-low latency TTS |
-| **Spark-TTS** | best open-source TTS |
-| **Suno v4** | best AI music generation |
-| **Udio** | strong competitor to Suno |
-| **Stable Audio 2.0** | AI audio and music generation |
+| Tool | Description | Pricing & Free Tier |
+| :--- | :--- | :--- |
+| **ElevenLabs** | most realistic voice cloning | **Free:** 10,000 chars/mo. **Starter:** $5/mo. |
+| **Cartesia** | ultra-low latency TTS | **Free Trial** available. **Pay-as-you-go** API. |
+| **Spark-TTS** | best open-source TTS | **Free:** Open-source. |
+| **Suno v4** | best AI music generation | **Free:** 50 credits/day (~10 songs). **Pro:** $10/mo. |
+| **Udio** | strong competitor to Suno | **Free:** 10 daily + 100 monthly credits. **Standard:** $10/mo. |
+| **Stable Audio 2.0** | AI audio and music generation | **Free:** 20 tracks/mo. **Pro:** $11.99/mo. |
 
 ## AI Agents & Autonomous Systems 🤖
 
-| Tool | Description |
-| :--- | :--- |
-| **OpenAI Operator** | browser agent |
-| **Manus** | rising autonomous agent |
-| **CrewAI** | multi-agent orchestration |
-| **LangGraph** | most popular agent framework |
-| **AutoGen (Microsoft)** | Framework for multi-agent conversations |
-| **AgentGPT** | Autonomous AI agents in the browser |
-| **SuperAGI** | Infrastructure for autonomous AI agents |
-| **SmythOS** | Operating system for AI agents |
-| **[AI for Database](https://aifordatabase.com)** | database agent. Connect any database (PostgreSQL, MySQL, MongoDB) and query it in plain English. |
+| Tool | Description | Pricing & Free Tier |
+| :--- | :--- | :--- |
+| **OpenAI Operator** | browser agent | **Free:** Limited preview. **Paid:** Included in Plus/Pro. |
+| **Manus** | rising autonomous agent | **Paid only:** Enterprise/Custom pricing. |
+| **CrewAI** | multi-agent orchestration | **Free:** Open-source framework. |
+| **LangGraph** | most popular agent framework | **Free:** Open-source. Paid cloud hosting available. |
+| **AutoGen (Microsoft)** | Framework for multi-agent conversations | **Free:** Open-source. |
+| **AgentGPT** | Autonomous AI agents in the browser | **Free:** 3 agents/day. **Pro:** $20/mo. |
+| **SuperAGI** | Infrastructure for autonomous AI agents | **Free:** Open-source / Limited cloud tier. |
+| **SmythOS** | Operating system for AI agents | **Free:** Basic access. **Pro:** ~$30/mo. |
+| **[AI for Database](https://aifordatabase.com)** | database agent for PostgreSQL, MySQL, MongoDB. | **Free:** 1 connection, 50 queries. **Pro:** $29/mo. |
 
 ## Inference & Serving Platforms ⚡
 
-| Platform | Description |
-| :--- | :--- |
-| **CoderPlan** | unified LLM API gateway supporting Claude, OpenAI, and Gemini. [coderplan.ai](https://coderplan.ai) |
-| **Groq** | blazing fast LLM inference |
-| **Fireworks** | fast inference platform |
-| **Together AI** | serving & inference |
-| **OpenRouter** | multi-model API router |
+| Platform | Description | Pricing & Free Tier |
+| :--- | :--- | :--- |
+| **CoderPlan** | unified LLM API gateway for Claude, OpenAI, and Gemini. | **Pay-as-you-go:** ~0.7x official API rates. |
+| **Groq** | blazing fast LLM inference | **Free:** 30 RPM / 14,400 RPD. **Paid:** On-demand starting at $0.05/1M tokens. |
+| **Fireworks** | fast inference platform | **Free:** $1 credit on signup. **Paid:** Serverless from $0.10/1M tokens. |
+| **Together AI** | serving & inference | **Free:** $5 credit on signup. **Paid:** Serverless from $0.05/1M tokens. |
+| **OpenRouter** | multi-model API router | **Free:** Daily request limits on `:free` models. **Paid:** Model cost + 5% fee. |
 
 ## Best Open-Source LLMs 2026 🆓
 
-| Model | Description |
-| :--- | :--- |
-| **DeepSeek-R1 / DeepSeek-V3** | current open champion |
-| **Llama 4 / Llama 3.3 / Llama 3.1 405B** | Meta's state-of-the-art open models |
-| **Qwen 2.5 / Qwen-Max** | Alibaba's powerful LLM family |
-| **Mistral Large 2 / Pixtral Large / Devstral** | Mistral AI's flagship open models |
-| **Gemma 3** | Google's latest open models |
-| **Phi-4 / Phi-4-mini** | Microsoft's small language models |
-| **Command R+ (Cohere)** | Optimized for RAG and tool use |
+| Model | Description | Availability / Pricing |
+| :--- | :--- | :--- |
+| **DeepSeek-R1 / DeepSeek-V3** | current open champion | **Free:** Open Weights (MIT/Custom). |
+| **Llama 4 / Llama 3.3 / Llama 3.1 405B** | Meta's state-of-the-art open models | **Free:** Open Weights (Llama License). |
+| **Qwen 2.5 / Qwen-Max** | Alibaba's powerful LLM family | **Free:** Open Weights (Apache 2.0). |
+| **Mistral Large 2 / Pixtral Large / Devstral** | Mistral AI's flagship open models | **Free:** Open Weights (Mistral Research License). |
+| **Gemma 3** | Google's latest open models | **Free:** Open Weights (Gemma Terms). |
+| **Phi-4 / Phi-4-mini** | Microsoft's small language models | **Free:** Open Weights (MIT). |
+| **Command R+ (Cohere)** | Optimized for RAG and tool use | **Free:** Open Weights (CC-BY-NC). |
 
 
 
@@ -150,9 +150,9 @@
 
 ## Productivity, Writing & Automation ⚙️
 
-| Tool | Description |
-| :--- | :--- |
-| [TinyTools](https://tinytools-smoky.vercel.app/) | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. No signup required. Open source. |
+| Tool | Description | Pricing & Free Tier |
+| :--- | :--- | :--- |
+| [TinyTools](https://tinytools-smoky.vercel.app/) | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **100% Free:** No signup required. Open source. |
 
 ## Contributing 🤝
 
@@ -176,13 +176,13 @@ Thank you to everyone who helps keep this list **fresh and useful**! ❤️
 
 ## 💬 Community & Support
 
-| Resource | Description |
-| :--- | :--- |
-| **📚 [Documentation](https://docs.open-workflows.com)** | Check out our official documentation for detailed guides and tutorials. |
-| **🗣️ [Forum](https://community.open-workflows.com)** | Join our community forum to ask questions, share your projects, and connect with other users. |
-| **💬 [Discord](https://discord.com/invite/jc4xtF58Ve)** | Chat with us on Discord for real-time support and discussions. |
-| **🐦 [Twitter](https://twitter.com/ishandutta2007)** | Follow us on Twitter for the latest news and updates. |
-| **🐦 [Github](https://github.com/ishandutta2007)** | Follow me on Github for the latest commits and updates. |
+| Resource | Description | Pricing |
+| :--- | :--- | :--- |
+| **📚 [Documentation](https://docs.open-workflows.com)** | Check out our official documentation for detailed guides and tutorials. | **Free** |
+| **🗣️ [Forum](https://community.open-workflows.com)** | Join our community forum to ask questions, share your projects, and connect with other users. | **Free** |
+| **💬 [Discord](https://discord.com/invite/jc4xtF58Ve)** | Chat with us on Discord for real-time support and discussions. | **Free** |
+| **🐦 [Twitter](https://twitter.com/ishandutta2007)** | Follow us on Twitter for the latest news and updates. | **Free** |
+| **🐦 [Github](https://github.com/ishandutta2007)** | Follow me on Github for the latest commits and updates. | **Free** |
 
 
 ## 💖 Support & Sponsorship

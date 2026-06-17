@@ -23,16 +23,16 @@
 
 ## ✨ Top Trending AI Tools & Models – January 2026 🔥
 
-| Rank | Category                  | Tool / Model                              | One-liner Highlights                                      | Trend / Stars |
-|------|---------------------------|-------------------------------------------|-----------------------------------------------------------|---------------|
-| 1    | **Best Open Reasoning**   | **DeepSeek-R1** • **DeepSeek-V3**         | Currently the strongest open math & coding models         | 🚀 Exploding |
-| 2    | **Best Open Image Gen**   | **Flux.1 [pro/dev/schnell]**              | Still the #1 open-source image model right now            | ★★★★★        |
-| 3    | **Fastest LLM Inference** | **Groq** • **Fireworks** • **Together**   | Blazing fast inference platforms                          | ⚡ Very high |
-| 4    | **Best AI Code Editor**   | **Cursor** • **Windsurf** • **Continue**  | AI-first IDEs revolutionizing coding                      | Very high    |
-| 5    | **Best Autonomous Agent** | **OpenAI Operator** • **Manus**           | Browser-controlling agents that actually work             | Rising fast  |
-| 6    | **Most Natural Voice**    | **ElevenLabs** • **Cartesia** • **Spark-TTS** | Hyper-realistic voice cloning & TTS                     | ★★★★★        |
-| 7    | **Best Local Setup**      | **Ollama + Open WebUI**                   | Easiest & fastest way to run powerful models locally      | ★★★★         |
-| 8    | **Best Research Agent**   | **Perplexity Pro** • **Grok 3**           | Real-time web + deep reasoning                           | Very high    |
+| Rank | Category                  | Tool / Model                              | Company Size | One-liner Highlights                                      | Trend / Stars |
+|------|---------------------------|-------------------------------------------|--------------|-----------------------------------------------------------|---------------|
+| 1    | **Best Local Setup**      | **Ollama + Open WebUI**                   | **Open Source** | Easiest & fastest way to run powerful models locally      | ★★★★         |
+| 2    | **Fastest LLM Inference** | **Fireworks** • **Together** • **Groq**   | **$15B+** (Group) | Blazing fast inference platforms                          | ⚡ Very high |
+| 3    | **Best Research Agent**   | **Grok 3** • **Perplexity Pro**           | **$230B+** (Group) | Real-time web + deep reasoning                           | Very high    |
+| 4    | **Best Autonomous Agent** | **OpenAI Operator** • **Manus**           | **$852B+** (Group) | Browser-controlling agents that actually work             | Rising fast  |
+| 5    | **Best AI Code Editor**   | **Cursor** • **Windsurf** • **Continue**  | **$60B+** (Group) | AI-first IDEs revolutionizing coding                      | Very high    |
+| 6    | **Best Open Reasoning**   | **DeepSeek-R1** • **DeepSeek-V3**         | **$50B+** (DeepSeek) | Currently the strongest open math & coding models         | 🚀 Exploding |
+| 7    | **Most Natural Voice**    | **ElevenLabs** • **Cartesia**             | **$11B+** (Group) | Hyper-realistic voice cloning & TTS                     | ★★★★★        |
+| 8    | **Best Open Image Gen**   | **Flux.1 [pro/dev/schnell]**              | **$3.25B** (BFL) | Still the #1 open-source image model right now            | ★★★★★        |
 
 ## 📑 Table of Contents
 

@@ -25,14 +25,14 @@
 
 | Rank | Category                  | Tool / Model                              | Company Size | One-liner Highlights                                      | Trend / Stars |
 |------|---------------------------|-------------------------------------------|--------------|-----------------------------------------------------------|---------------|
-| 1    | **Best Local Setup**      | **Ollama + Open WebUI**                   | **Open Source** | Easiest & fastest way to run powerful models locally      | ★★★★         |
-| 2    | **Fastest LLM Inference** | **Fireworks** • **Together** • **Groq**   | **$15B+** (Group) | Blazing fast inference platforms                          | ⚡ Very high |
-| 3    | **Best Research Agent**   | **Grok 3** • **Perplexity Pro**           | **$230B+** (Group) | Real-time web + deep reasoning                           | Very high    |
-| 4    | **Best Autonomous Agent** | **OpenAI Operator** • **Manus**           | **$852B+** (Group) | Browser-controlling agents that actually work             | Rising fast  |
-| 5    | **Best AI Code Editor**   | **Cursor** • **Windsurf** • **Continue**  | **$60B+** (Group) | AI-first IDEs revolutionizing coding                      | Very high    |
-| 6    | **Best Open Reasoning**   | **DeepSeek-R1** • **DeepSeek-V3**         | **$50B+** (DeepSeek) | Currently the strongest open math & coding models         | 🚀 Exploding |
-| 7    | **Most Natural Voice**    | **ElevenLabs** • **Cartesia**             | **$11B+** (Group) | Hyper-realistic voice cloning & TTS                     | ★★★★★        |
-| 8    | **Best Open Image Gen**   | **Flux.1 [pro/dev/schnell]**              | **$3.25B** (BFL) | Still the #1 open-source image model right now            | ★★★★★        |
+| 1    | **Best Autonomous Agent** | **OpenAI Operator** • **Manus**           | **$852B+** (Group) | Browser-controlling agents that actually work             | Rising fast  |
+| 2    | **Best Research Agent**   | **Grok 3** • **Perplexity Pro**           | **$230B+** (Group) | Real-time web + deep reasoning                           | Very high    |
+| 3    | **Best AI Code Editor**   | **Cursor** • **Windsurf** • **Continue**  | **$60B+** (Group) | AI-first IDEs revolutionizing coding                      | Very high    |
+| 4    | **Best Open Reasoning**   | **DeepSeek-R1** • **DeepSeek-V3**         | **$50B+** (DeepSeek) | Currently the strongest open math & coding models         | 🚀 Exploding |
+| 5    | **Fastest LLM Inference** | **Fireworks** • **Together** • **Groq**   | **$15B+** (Group) | Blazing fast inference platforms                          | ⚡ Very high |
+| 6    | **Most Natural Voice**    | **ElevenLabs** • **Cartesia**             | **$11B+** (Group) | Hyper-realistic voice cloning & TTS                     | ★★★★★        |
+| 7    | **Best Open Image Gen**   | **Flux.1 [pro/dev/schnell]**              | **$3.25B** (BFL) | Still the #1 open-source image model right now            | ★★★★★        |
+| 8    | **Best Local Setup**      | **Ollama + Open WebUI**                   | **Open Source** | Easiest & fastest way to run powerful models locally      | ★★★★         |
 
 ## 📑 Table of Contents
 
@@ -62,18 +62,24 @@
 | [Claude](https://claude.ai) | best UX for long context & reasoning | **$183B** (Anthropic) | **Free:** Daily message limits. **Pro:** $20/mo. |
 | [Perplexity](https://perplexity.ai) | #1 answer engine with real-time web | **$21B** (Perplexity) | **Free:** Unlimited basic search, 5 Pro searches/day. **Pro:** $20/mo. |
 | [Le Chat Mistral](https://chat.mistral.ai) | fastest European alternative | **$20B** (Mistral AI) | **Free:** Beta access, approx. 25 msgs/day. **Pro:** $14.99/mo. |
+| [HuggingChat](https://huggingface.co/chat/) | Open-source multi-model hub. | **$4.5B** (HuggingFace) | **Free:** High usage limits. **Pro:** $9/mo. |
 | [Poe](https://poe.com) | access almost every frontier model in one place | **$2.5B** (Quora) | **Free:** Compute point limits. **Subscription:** $19.99/mo. |
 | [You.com](https://you.com) | strong agentic features | **$1.5B** (You.com) | **Free:** 25-query trial. **Pro:** $20/mo ($15/mo annual). |
+| [DuckDuckGo AI](https://duckduckgo.com/aichat) | Private and anonymous AI chat. | **$1B+** (DuckDuckGo) | **Free:** Limited daily queries. **Plus:** $9.99/mo. |
+| [Jan.ai](https://jan.ai/) | Local, open-source AI desktop interface. | **Open Source** | **100% Free:** Runs locally on your hardware. |
 
 ## Code Generation & AI Coding Tools 💻
 
 | Tool | Description | Company Size | Pricing & Free Tier |
 | :--- | :--- | :--- | :--- |
 | **GitHub Copilot (2026 edition)** | AI-powered code completion and assistance | **$3.5T** (Microsoft) | **Free:** 2,000 completions/mo. **Pro:** $10/mo. **Enterprise:** $39/mo. |
+| **Amazon Q** | Generative AI powered assistant for software development. | **$2.0T** (Amazon) | **Free:** 50 agentic requests/mo. **Pro:** $19/mo. |
+| **Windsurf** | rising fast competitor to Cursor | **$2.4B** (Codeium/Google) | **Free:** 25 prompt credits/mo, unlimited autocomplete. **Pro:** $15/mo. |
 | **Cursor** | the most loved AI-first code editor | **$60B** (Anysphere/SpaceX) | **Free:** 2,000 completions/mo, 50 premium requests. **Pro:** $20/mo. |
 | **Devin (Cognition)** | autonomous software engineer (waitlist) | **$26B** (Cognition AI) | **Free:** Light quota for agentic tasks. **Pro:** $20/mo. |
-| **Windsurf** | rising fast competitor to Cursor | **$2.4B** (Codeium/Google) | **Free:** 25 prompt credits/mo, unlimited autocomplete. **Pro:** $15/mo. |
+| **Replit** | Collaborative browser-based IDE with AI. | **$9B** (Replit) | **Free:** 1 project. **Core:** $20/mo. |
 | **Sweep.dev** | AI that fixes GitHub issues | **$100M+** (Sweep) | **Free Trial** available. **Pro:** $20/mo. |
+| **Tabnine** | AI assistant for software developers. | **$100M** (Tabnine) | **Pro:** $39/user/mo. |
 | **Continue.dev** | best open-source AI code assistant | **Open Source** | **Free:** Open-source extension. Pay for your own LLM API (BYOK). |
 | **Aider** | terminal-based AI pair programmer | **Open Source** | **Free:** Open-source. Pay for your own LLM API (BYOK). |
 | **Cline** | command-line AI coding agent | **Open Source** | **Free:** Open-source. Pay for your own LLM API (BYOK). |
@@ -104,9 +110,11 @@
 | :--- | :--- | :--- | :--- |
 | **ElevenLabs** | most realistic voice cloning | **$11B** (ElevenLabs) | **Free:** 10,000 chars/mo. **Starter:** $5/mo. |
 | **Suno v4** | best AI music generation | **$5B+** (Suno AI) | **Free:** 50 credits/day (~10 songs). **Pro:** $10/mo. |
+| **HeyGen** | AI video generation with realistic voices. | **$2.1B** (HeyGen) | **Free:** 1 min credit. **Creator:** $24/mo. |
 | **Stable Audio 2.0** | AI audio and music generation | **$651M** (Stability AI) | **Free:** 20 tracks/mo. **Pro:** $11.99/mo. |
 | **Udio** | strong competitor to Suno | **$200M+** (Udio) | **Free:** 10 daily + 100 monthly credits. **Standard:** $10/mo. |
 | **Cartesia** | ultra-low latency TTS | **$100M+** (Est.) | **Free Trial** available. **Pay-as-you-go** API. |
+| **Resemble AI** | Real-time AI voice cloning and generation. | **$25M** (Resemble) | **Free:** 1,000 chars. **Basic:** $0.006/sec. |
 | **Spark-TTS** | best open-source TTS | **Open Source** | **Free:** Open-source. |
 
 ## AI Agents & Autonomous Systems 🤖
@@ -117,7 +125,9 @@
 | **OpenAI Operator** | browser agent | **$852B** (OpenAI) | **Free:** Limited preview. **Paid:** Included in Plus/Pro. |
 | **LangGraph** | most popular agent framework | **$1.25B** (LangChain) | **Free:** Open-source. Paid cloud hosting available. |
 | **Manus** | rising autonomous agent | **$1B+** (Manus AI) | **Paid only:** Enterprise/Custom pricing. |
+| **MultiOn** | Agent that can use the web for you. | **$100M** (MultiOn) | **Free Trial** available. **Pro:** ~$20/mo. |
 | **CrewAI** | multi-agent orchestration | **$100M+** (CrewAI) | **Free:** Open-source framework. |
+| **HyperWrite** | Personal assistant and writing agent. | **$12.5M** (HyperWrite) | **Free:** Limited credits. **Premium:** $19.99/mo. |
 | **AgentGPT** | Autonomous AI agents in the browser | **$10M+** (Est.) | **Free:** 3 agents/day. **Pro:** $20/mo. |
 | **SuperAGI** | Infrastructure for autonomous AI agents | **$10M+** (Est.) | **Free:** Open-source / Limited cloud tier. |
 | **SmythOS** | Operating system for AI agents | **$10M+** (Est.) | **Free:** Basic access. **Pro:** ~$30/mo. |

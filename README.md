@@ -87,6 +87,7 @@
 | **Ideogram 2.0** | best text-in-image |
 | **Leonardo.Ai** | great for game assets |
 | [Aurcue](https://www.aurcue.com) | AI personal style assistant for color analysis, outfit ideas, hairstyle direction, glasses suggestions, and seasonal styling from one photo. |
+| [ClearCrowds](https://www.clearcrowds.com) | AI photo cleanup editor for removing crowds, objects, text, glasses, glare, and other visual distractions with focused presets and prompt-based editing. |
 | **Runway Gen-3 Alpha / Turbo** | Professional-grade AI video generation |
 | **Kling 2.0** | best Chinese video model |
 | ImagineClip | AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects. |

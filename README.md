@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Awesome AI Tools 2026 Banner](assets/banner.svg)
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/awesome-ai-tools?style=social)](https://github.com/yourusername/awesome-ai-tools/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/awesome-ai-tools?style=social)](https://github.com/yourusername/awesome-ai-tools/network)
@@ -87,6 +89,7 @@
 | **Ideogram 2.0** | best text-in-image | **Free:** 10 slow credits/week. **Plus:** $20/mo ($15/mo annual). |
 | **Leonardo.Ai** | great for game assets | **Free:** 150 daily tokens. **Apprentice:** $12/mo. |
 | [Aurcue](https://www.aurcue.com) | AI personal style assistant for styling from one photo. | **Free Trial** available. **Pro:** ~$10/mo. |
+| [ClearCrowds](https://www.clearcrowds.com) | AI photo cleanup editor for removing crowds and objects. | **Free Trial** available. **Pro:** ~$10/mo. |
 | **Runway Gen-3 Alpha / Turbo** | Professional-grade AI video generation | **Free:** 125 one-time credits. **Standard:** $15/mo. |
 | **Kling 2.0** | best Chinese video model | **Free:** 66 daily credits. **Standard:** $10/mo. |
 | ImagineClip | AI video generator for social clips and stylized scenes. | **Free Trial** available. **Pro:** ~$15/mo. |

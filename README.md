@@ -145,17 +145,17 @@
 | **Command R+ (Cohere)** | Optimized for RAG and tool use | **Free:** Open Weights (CC-BY-NC). |
 
 
-
-### ✨ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/awesome-ai-tools&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/awesome-ai-tools&type=date&legend=top-left)
-
-
 ## Productivity, Writing & Automation ⚙️
 
 | Tool | Description | Pricing & Free Tier |
 | :--- | :--- | :--- |
 | [TinyTools](https://tinytools-smoky.vercel.app/) | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **100% Free:** No signup required. Open source. |
+
+
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/awesome-ai-tools&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/awesome-ai-tools&type=date&legend=top-left)
+
 
 ## Contributing 🤝
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Awesome AI Tools 2026 Banner](assets/banner.svg)
+<img src="assets/banner.svg" alt="Awesome AI Tools 2026 Banner" width="100%" />
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/awesome-ai-tools?style=social)](https://github.com/yourusername/awesome-ai-tools/stargazers)

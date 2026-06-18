@@ -99,9 +99,9 @@
 | **Pika 2.0** | High-quality video generation | **$900M** (Pika Labs) | **Free:** 80 monthly credits. **Standard:** $10/mo. |
 | **Ideogram 2.0** | best text-in-image | **$500M+** (Ideogram) | **Free:** 10 slow credits/week. **Plus:** $20/mo ($15/mo annual). |
 | **Udio** | strong competitor to Suno | **$200M+** (Udio) | **Free:** 10 daily + 100 monthly credits. **Standard:** $10/mo. |
-| [Aurcue](https://www.aurcue.com) | AI personal style assistant for styling from one photo. | **$10M+** (Est.) | **Free Trial** available. **Pro:** ~$10/mo. |
-| [ClearCrowds](https://www.clearcrowds.com) | AI photo cleanup editor for removing crowds and objects. | **$10M+** (Est.) | **Free Trial** available. **Pro:** ~$10/mo. |
-| ImagineClip | AI video generator for social clips and stylized scenes. | **$5M+** (Est.) | **Free Trial** available. **Pro:** ~$15/mo. |
+| **Aurcue** | AI personal style assistant for styling from one photo. | **$10M+** (Est.) | **Free Trial** available. **Pro:** ~$10/mo. |
+| **ClearCrowds** | AI photo cleanup editor for removing crowds and objects. | **$10M+** (Est.) | **Free Trial** available. **Pro:** ~$10/mo. |
+| **ImagineClip** | AI video generator for social clips and stylized scenes. | **$5M+** (Est.) | **Free Trial** available. **Pro:** ~$15/mo. |
 | **TripoSR / InstantMesh / Rodin** | open 3D generation ([GitHub](https://github.com/VAST-AI/TripoSR)). | **Open Source** | **Free:** Open-source / Free to run locally. |
 
 ## Audio, Music & Voice Tools 🎤🎵
@@ -131,7 +131,7 @@
 | **AgentGPT** | Autonomous AI agents in the browser | **$10M+** (Est.) | **Free:** 3 agents/day. **Pro:** $20/mo. |
 | **SuperAGI** | Infrastructure for autonomous AI agents | **$10M+** (Est.) | **Free:** Open-source / Limited cloud tier. |
 | **SmythOS** | Operating system for AI agents | **$10M+** (Est.) | **Free:** Basic access. **Pro:** ~$30/mo. |
-| **[AI for Database](https://aifordatabase.com)** | database agent for PostgreSQL, MySQL, MongoDB. | **$5M+** (Est.) | **Free:** 1 connection, 50 queries. **Pro:** $29/mo. |
+| **AI for Database** | database agent for PostgreSQL, MySQL, MongoDB. | **$5M+** (Est.) | **Free:** 1 connection, 50 queries. **Pro:** $29/mo. |
 
 ## Inference & Serving Platforms ⚡
 
@@ -171,7 +171,7 @@
 | **Jasper AI** | Enterprise AI content platform. | **$1.5B** (Jasper) | **Pro:** $59/mo. |
 | **Otter.ai** | AI meeting assistant and transcription. | **$1.1B** (Otter) | **Free:** 300 mins/mo. **Pro:** $10/mo. |
 | **Copy.ai** | AI marketing and sales automation. | **$500M** (Copy.ai) | **Free:** 2,000 words/mo. **Pro:** $36/mo. |
-| [TinyTools](https://tinytools-smoky.vercel.app/) | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **Open Source** | **100% Free:** No signup required. Open source. |
+| **TinyTools** | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **Open Source** | **100% Free:** No signup required. Open source. |
 
 
 ### ✨ Star History

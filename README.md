@@ -83,7 +83,7 @@
 | **Continue.dev** | Open-source AI code assistant ([GitHub](https://github.com/continuedev/continue)). | **Open Source** | **Free:** Open-source extension. Pay for your own LLM API (BYOK). |
 | **Aider** | terminal-based AI pair programmer ([GitHub](https://github.com/Aider-AI/aider)). | **Open Source** | **Free:** Open-source. Pay for your own LLM API (BYOK). |
 | **Cline** | command-line AI coding agent ([GitHub](https://github.com/cline/cline)). | **Open Source** | **Free:** Open-source. Pay for your own LLM API (BYOK). |
-| **[Roblox GUI Maker](https://robloxguimaker.dev/)** | AI Roblox Studio ScreenGui, HUD, menu, and Lua UI planning tool. | **Indie Tool** | **Free:** Browser-based Roblox GUI planning. |
+| **Roblox GUI Maker** | AI Roblox Studio ScreenGui, HUD, menu, and Lua UI planning tool. | **Indie Tool** | **Free:** Browser-based Roblox GUI planning. |
 | **toprank** | open-source Claude Code plugin for SEO & Google Ads ([GitHub](https://github.com/nowork-studio/toprank)). | **Open Source** | **Free:** Open-source. |
 
 

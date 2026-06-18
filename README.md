@@ -174,6 +174,10 @@
 | **TinyTools** | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **Open Source** | **100% Free:** No signup required. Open source. |
 
 
+
+Every contribution, no matter how small, makes a huge difference!
+
+
 ## 📈 Star History
 <div align="center">
    <a href="https://www.star-history.com/?repos=ishandutta2007%2Fawesome-ai-tools&type=date&legend=bottom-right">
@@ -184,45 +188,6 @@
     </picture>
    </a>
 </div>
-
----
-
-**We want your help to keep this list the best AI tools directory on GitHub!**
-
-**What we love**:
-- New amazing tools/models (with short, objective one-liner)
-- Updated star counts, new versions, or status changes
-- Better categorization & organization
-- Removing abandoned projects (>12 months inactive)
-- Fixing broken links
-
-**How to add something**:
-1. Fork the repo
-2. Add your tool in the correct section
-3. Keep description **short & clear** (ideally 1 line)
-4. Format: `- [Tool Name](https://link) — Short description.`
-5. Submit a **Pull Request** with good title
-
-Thank you to everyone who helps keep this list **fresh and useful**! ❤️
-
-## 💬 Community & Support
-
-| Resource | Description | Pricing |
-| :--- | :--- | :--- |
-| **📚 [Documentation](https://docs.open-workflows.com)** | Check out our official documentation for detailed guides and tutorials. | **Free** |
-| **🗣️ [Forum](https://community.open-workflows.com)** | Join our community forum to ask questions, share your projects, and connect with other users. | **Free** |
-| **💬 [Discord](https://discord.com/invite/jc4xtF58Ve)** | Chat with us on Discord for real-time support and discussions. | **Free** |
-| **🐦 [Twitter](https://twitter.com/ishandutta2007)** | Follow us on Twitter for the latest news and updates. | **Free** |
-| **🐦 [Github](https://github.com/ishandutta2007)** | Follow me on Github for the latest commits and updates. | **Free** |
-
-
-## 💖 Support & Sponsorship
-
-If you find this project helpful or if it has saved you time and resources, please consider sponsoring the development. Your support helps maintain the project, develop new features, and keep the initiative open-source.
-
-**[Sponsor @ishandutta2007 on GitHub](https://github.com/sponsors/ishandutta2007)**
-
-Every contribution, no matter how small, makes a huge difference!
 
 
 ---

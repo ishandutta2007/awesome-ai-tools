@@ -138,8 +138,11 @@
 | Platform | Description | Company Size | Pricing & Free Tier |
 | :--- | :--- | :--- | :--- |
 | **Fireworks** | fast inference platform | **$15B** (Fireworks AI) | **Free:** $1 credit on signup. **Paid:** Serverless from $0.10/1M tokens. |
+| **Lambda Labs** | GPU Cloud and clusters. | **$9B** (Lambda) | **Paid:** ~$2.00/hr (A100). |
 | **Together AI** | serving & inference | **$7.5B** (Together AI) | **Free:** $5 credit on signup. **Paid:** Serverless from $0.05/1M tokens. |
 | **Groq** | blazing fast LLM inference | **$6.9B** (Groq) | **Free:** 30 RPM / 14,400 RPD. **Paid:** On-demand starting at $0.05/1M tokens. |
+| **Modal** | Serverless GPU computing. | **$4.65B** (Modal Labs) | **Free:** $30/mo free credit. |
+| **RunPod** | GPU cloud and serverless. | **$120M+** (RunPod) | **Paid:** ~$0.40/hr (Community GPUs). |
 | **OpenRouter** | multi-model API router | **$50M+** (Est.) | **Free:** Daily request limits on `:free` models. **Paid:** Model cost + 5% fee. |
 | **CoderPlan** | unified LLM API gateway for Claude, OpenAI, and Gemini. | **$5M+** (Est.) | **Pay-as-you-go:** ~0.7x official API rates. |
 
@@ -153,13 +156,21 @@
 | **Qwen 2.5 / Qwen-Max** | Alibaba's powerful LLM family | **$269B** (Alibaba) | **Free:** Open Weights (Apache 2.0). |
 | **DeepSeek-R1 / DeepSeek-V3** | current open champion | **$50B+** (DeepSeek) | **Free:** Open Weights (MIT/Custom). |
 | **Mistral Large 2 / Pixtral Large / Devstral** | Mistral AI's flagship open models | **$20B** (Mistral AI) | **Free:** Open Weights (Mistral Research License). |
+| **Falcon 3** | Advanced open models from TII. | **$10B+** (TII) | **Free:** Open Weights. |
 | **Command R+ (Cohere)** | Optimized for RAG and tool use | **$7B** (Cohere) | **Free:** Open Weights (CC-BY-NC). |
+| **Jamba** | Hybrid Mamba-Transformer model. | **$1.4B** (AI21 Labs) | **Free:** Open Weights. |
+| **OLMo** | Truly open models (data, code, weights). | **Non-Profit** (AI2) | **Free:** Apache 2.0. |
 
 
 ## Productivity, Writing & Automation ⚙️
 
 | Tool | Description | Company Size | Pricing & Free Tier |
 | :--- | :--- | :--- | :--- |
+| **Grammarly AI** | AI-powered writing assistant and editor. | **$13B** (Grammarly) | **Free:** Basic checks. **Pro:** $12/mo (annual). |
+| **Gamma** | AI-powered presentations, docs, and sites. | **$2.1B** (Gamma) | **Free:** 400 credits. **Plus:** $8/mo. |
+| **Jasper AI** | Enterprise AI content platform. | **$1.5B** (Jasper) | **Pro:** $59/mo. |
+| **Otter.ai** | AI meeting assistant and transcription. | **$1.1B** (Otter) | **Free:** 300 mins/mo. **Pro:** $10/mo. |
+| **Copy.ai** | AI marketing and sales automation. | **$500M** (Copy.ai) | **Free:** 2,000 words/mo. **Pro:** $36/mo. |
 | [TinyTools](https://tinytools-smoky.vercel.app/) | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **Open Source** | **100% Free:** No signup required. Open source. |
 
 

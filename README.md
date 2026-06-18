@@ -171,7 +171,7 @@
 | **Jasper AI** | Enterprise AI content platform. | **$1.5B** (Jasper) | **Pro:** $59/mo. |
 | **Otter.ai** | AI meeting assistant and transcription. | **$1.1B** (Otter) | **Free:** 300 mins/mo. **Pro:** $10/mo. |
 | **Copy.ai** | AI marketing and sales automation. | **$500M** (Copy.ai) | **Free:** 2,000 words/mo. **Pro:** $36/mo. |
-| [TinyTools](https://tinytools-smoky.vercel.app/) | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **Open Source** | **100% Free:** No signup required. Open source. |
+| **TinyTools** | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **Open Source** | **100% Free:** No signup required. Open source. |
 
 
 ### ✨ Star History

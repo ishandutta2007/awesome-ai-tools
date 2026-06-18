@@ -62,11 +62,11 @@
 | [Claude](https://claude.ai) | best UX for long context & reasoning | **$183B** (Anthropic) | **Free:** Daily message limits. **Pro:** $20/mo. |
 | [Perplexity](https://perplexity.ai) | #1 answer engine with real-time web | **$21B** (Perplexity) | **Free:** Unlimited basic search, 5 Pro searches/day. **Pro:** $20/mo. |
 | [Le Chat Mistral](https://chat.mistral.ai) | fastest European alternative | **$20B** (Mistral AI) | **Free:** Beta access, approx. 25 msgs/day. **Pro:** $14.99/mo. |
-| [HuggingChat](https://huggingface.co/chat/) | Open-source multi-model hub. | **$4.5B** (HuggingFace) | **Free:** High usage limits. **Pro:** $9/mo. |
+| [HuggingChat](https://huggingface.co/chat/) | Open-source multi-model hub ([GitHub](https://github.com/huggingface/chat-ui)). | **$4.5B** (HuggingFace) | **Free:** High usage limits. **Pro:** $9/mo. |
 | [Poe](https://poe.com) | access almost every frontier model in one place | **$2.5B** (Quora) | **Free:** Compute point limits. **Subscription:** $19.99/mo. |
 | [You.com](https://you.com) | strong agentic features | **$1.5B** (You.com) | **Free:** 25-query trial. **Pro:** $20/mo ($15/mo annual). |
 | [DuckDuckGo AI](https://duckduckgo.com/aichat) | Private and anonymous AI chat. | **$1B+** (DuckDuckGo) | **Free:** Limited daily queries. **Plus:** $9.99/mo. |
-| [Jan.ai](https://jan.ai/) | Local, open-source AI desktop interface. | **Open Source** | **100% Free:** Runs locally on your hardware. |
+| [Jan.ai](https://jan.ai/) | Local, open-source AI desktop interface ([GitHub](https://github.com/janhq/jan)). | **Open Source** | **100% Free:** Runs locally on your hardware. |
 
 ## Code Generation & AI Coding Tools 💻
 
@@ -78,12 +78,12 @@
 | **Cursor** | the most loved AI-first code editor | **$60B** (Anysphere/SpaceX) | **Free:** 2,000 completions/mo, 50 premium requests. **Pro:** $20/mo. |
 | **Devin (Cognition)** | autonomous software engineer (waitlist) | **$26B** (Cognition AI) | **Free:** Light quota for agentic tasks. **Pro:** $20/mo. |
 | **Replit** | Collaborative browser-based IDE with AI. | **$9B** (Replit) | **Free:** 1 project. **Core:** $20/mo. |
-| **Sweep.dev** | AI that fixes GitHub issues | **$100M+** (Sweep) | **Free Trial** available. **Pro:** $20/mo. |
+| **Sweep.dev** | AI that fixes GitHub issues ([GitHub](https://github.com/sweepai/sweep)). | **$100M+** (Sweep) | **Free Trial** available. **Pro:** $20/mo. |
 | **Tabnine** | AI assistant for software developers. | **$100M** (Tabnine) | **Pro:** $39/user/mo. |
-| **Continue.dev** | best open-source AI code assistant | **Open Source** | **Free:** Open-source extension. Pay for your own LLM API (BYOK). |
-| **Aider** | terminal-based AI pair programmer | **Open Source** | **Free:** Open-source. Pay for your own LLM API (BYOK). |
-| **Cline** | command-line AI coding agent | **Open Source** | **Free:** Open-source. Pay for your own LLM API (BYOK). |
-| **toprank** | open-source Claude Code plugin for SEO & Google Ads | **Open Source** | **Free:** Open-source ([GitHub](https://github.com/nowork-studio/toprank)). |
+| **Continue.dev** | Open-source AI code assistant ([GitHub](https://github.com/continuedev/continue)). | **Open Source** | **Free:** Open-source extension. Pay for your own LLM API (BYOK). |
+| **Aider** | terminal-based AI pair programmer ([GitHub](https://github.com/Aider-AI/aider)). | **Open Source** | **Free:** Open-source. Pay for your own LLM API (BYOK). |
+| **Cline** | command-line AI coding agent ([GitHub](https://github.com/cline/cline)). | **Open Source** | **Free:** Open-source. Pay for your own LLM API (BYOK). |
+| **toprank** | open-source Claude Code plugin for SEO & Google Ads ([GitHub](https://github.com/nowork-studio/toprank)). | **Open Source** | **Free:** Open-source. |
 
 
 ## Image, Video & 3D Generation 🖼️🎥
@@ -94,7 +94,7 @@
 | **Midjourney v7** | still king for artistic quality | **$10.5B** (Midjourney) | **Paid only:** Starting at $10/mo ($8/mo annual). |
 | **Runway Gen-3 Alpha / Turbo** | Professional-grade AI video generation | **$5.3B** (Runway AI) | **Free:** 125 one-time credits. **Standard:** $15/mo. |
 | **Luma Dream Machine / Ray2** | Cinematic video generation | **$4B** (Luma AI) | **Free:** 30 generations/mo. **Lite:** $9.99/mo. |
-| **Black Forest Labs (Flux)** | best open-source image model | **$3.25B** (BFL) | **Free:** Open weights (Dev/Schnell). **API:** ~$0.05/img. |
+| **Black Forest Labs (Flux)** | best open-source image model ([GitHub](https://github.com/black-forest-labs/flux)). | **$3.25B** (BFL) | **Free:** Open weights (Dev/Schnell). **API:** ~$0.05/img. |
 | **Leonardo.Ai** | great for game assets | **$1B+** (Canva) | **Free:** 150 daily tokens. **Apprentice:** $12/mo. |
 | **Pika 2.0** | High-quality video generation | **$900M** (Pika Labs) | **Free:** 80 monthly credits. **Standard:** $10/mo. |
 | **Ideogram 2.0** | best text-in-image | **$500M+** (Ideogram) | **Free:** 10 slow credits/week. **Plus:** $20/mo ($15/mo annual). |
@@ -102,7 +102,7 @@
 | [Aurcue](https://www.aurcue.com) | AI personal style assistant for styling from one photo. | **$10M+** (Est.) | **Free Trial** available. **Pro:** ~$10/mo. |
 | [ClearCrowds](https://www.clearcrowds.com) | AI photo cleanup editor for removing crowds and objects. | **$10M+** (Est.) | **Free Trial** available. **Pro:** ~$10/mo. |
 | ImagineClip | AI video generator for social clips and stylized scenes. | **$5M+** (Est.) | **Free Trial** available. **Pro:** ~$15/mo. |
-| **TripoSR / InstantMesh / Rodin** | open 3D generation | **Open Source** | **Free:** Open-source / Free to run locally. |
+| **TripoSR / InstantMesh / Rodin** | open 3D generation ([GitHub](https://github.com/VAST-AI/TripoSR)). | **Open Source** | **Free:** Open-source / Free to run locally. |
 
 ## Audio, Music & Voice Tools 🎤🎵
 
@@ -115,7 +115,7 @@
 | **Udio** | strong competitor to Suno | **$200M+** (Udio) | **Free:** 10 daily + 100 monthly credits. **Standard:** $10/mo. |
 | **Cartesia** | ultra-low latency TTS | **$100M+** (Est.) | **Free Trial** available. **Pay-as-you-go** API. |
 | **Resemble AI** | Real-time AI voice cloning and generation. | **$25M** (Resemble) | **Free:** 1,000 chars. **Basic:** $0.006/sec. |
-| **Spark-TTS** | best open-source TTS | **Open Source** | **Free:** Open-source. |
+| **Spark-TTS** | best open-source TTS ([GitHub](https://github.com/SparkAudio/Spark-TTS)). | **Open Source** | **Free:** Open-source. |
 
 ## AI Agents & Autonomous Systems 🤖
 

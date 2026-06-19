@@ -85,6 +85,7 @@
 | **Cline** | command-line AI coding agent ([GitHub](https://github.com/cline/cline)). | **Open Source** | **Free:** Open-source. Pay for your own LLM API (BYOK). |
 | **Roblox GUI Maker** | AI Roblox Studio ScreenGui, HUD, menu, and Lua UI planning tool. | **Indie Tool** | **Free:** Browser-based Roblox GUI planning. |
 | **toprank** | open-source Claude Code plugin for SEO & Google Ads ([GitHub](https://github.com/nowork-studio/toprank)). | **Open Source** | **Free:** Open-source. |
+| **NotFair** | open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP ([GitHub](https://github.com/nowork-studio/NotFair)). | **Open Source** | **Free:** Open-source. |
 
 
 ## Image, Video & 3D Generation 🖼️🎥

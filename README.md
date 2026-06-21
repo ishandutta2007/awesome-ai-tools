@@ -86,6 +86,7 @@
 - **Kling 2.0** — best Chinese video model
 - **Luma Dream Machine / Ray2**
 - **Pika 2.0**
+- [ImagineClip](https://imagineclip.com) — AI video generator for avatar clips, stylized scenes, and social-ready videos.
 - **TripoSR / InstantMesh / Rodin** — open 3D generation
 
 ## Audio, Music & Voice Tools 🎤🎵

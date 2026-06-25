@@ -105,7 +105,7 @@
 | **ClearCrowds** | AI photo cleanup editor for removing crowds and objects. | **$10M+** (Est.) | **Free Trial** available. **Pro:** ~$10/mo. |
 | **ImagineClip** | AI video generator for social clips and stylized scenes. | **$5M+** (Est.) | **Free Trial** available. **Pro:** ~$15/mo. |
 | **TripoSR / InstantMesh / Rodin** | open 3D generation ([GitHub](https://github.com/VAST-AI/TripoSR)). | **Open Source** | **Free:** Open-source / Free to run locally. |
-| **HairWow** | AI hairstyle try-on for previewing cuts, colors, beards, and salon-ready looks | **0M** | **Freemium:** Free trial available; paid plans on site. |
+| **HairWow** | AI hairstyle try-on for previewing cuts, colors, beards | **$0** | **Freemium:** Free trial available; paid plans on site. |
 
 ## Audio, Music & Voice Tools 🎤🎵
 

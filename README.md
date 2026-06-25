@@ -103,7 +103,7 @@
 | **Udio** | strong competitor to Suno | **$200M+** (Udio) | **Free:** 10 daily + 100 monthly credits. **Standard:** $10/mo. |
 | **Aurcue** | AI personal style assistant for styling from one photo. | **$10M+** (Est.) | **Free Trial** available. **Pro:** ~$10/mo. |
 | **ClearCrowds** | AI photo cleanup editor for removing crowds and objects. | **$10M+** (Est.) | **Free Trial** available. **Pro:** ~$10/mo. |
-| **[HairWow](https://www.gohairwow.com)** | AI hairstyle try-on for previewing cuts, colors, beards, and salon-ready looks from one photo. | **$10M+** (Est.) | **Freemium:** Free trial available; paid plans on site. |
+| **HairWow** | AI hairstyle try-on for previewing cuts, colors, beards, and salon-ready looks | **$10M+** (Est.) | **Freemium:** Free trial available; paid plans on site. |
 | **ImagineClip** | AI video generator for social clips and stylized scenes. | **$5M+** (Est.) | **Free Trial** available. **Pro:** ~$15/mo. |
 | **TripoSR / InstantMesh / Rodin** | open 3D generation ([GitHub](https://github.com/VAST-AI/TripoSR)). | **Open Source** | **Free:** Open-source / Free to run locally. |
 

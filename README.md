@@ -57,6 +57,7 @@
 | Tool | Description | Company Size | Pricing & Free Tier |
 | :--- | :--- | :--- | :--- |
 | [Gemini](https://gemini.google.com) | excellent multimodal + Google integration | **$4.0T** (Google) | **Free:** Unlimited Flash models. **Advanced:** $19.99/mo. |
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 | [ChatGPT](https://chatgpt.com) | still the most popular interface | **$852B** (OpenAI) | **Free:** Unlimited GPT-4o mini, limited GPT-4o. **Plus:** $20/mo. |
 | [Grok](https://grok.x.ai) | real-time knowledge + great personality | **$230B** (xAI) | **X Premium required:** Starting at $8/mo. |
 | [Claude](https://claude.ai) | best UX for long context & reasoning | **$183B** (Anthropic) | **Free:** Daily message limits. **Pro:** $20/mo. |

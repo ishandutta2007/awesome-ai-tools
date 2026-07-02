@@ -175,6 +175,8 @@
 | **Jasper AI** | Enterprise AI content platform. | **$1.5B** (Jasper) | **Pro:** $59/mo. |
 | **Otter.ai** | AI meeting assistant and transcription. | **$1.1B** (Otter) | **Free:** 300 mins/mo. **Pro:** $10/mo. |
 | **Copy.ai** | AI marketing and sales automation. | **$500M** (Copy.ai) | **Free:** 2,000 words/mo. **Pro:** $36/mo. |
+| **[Tudo](https://blynkai.app/tudo/)** | AI task manager for iPhone that turns voice notes, screenshots, shared content, and complex goals into organized tasks and subtasks. | **Indie** | **Free:** Free lifetime access currently available; iOS app. |
+| **[Telo](https://blynkai.app/telo/)** | AI wellness companion for iPhone using Apple Health context and user-logged events to understand readiness, recovery, sleep, and body-state trends. | **Indie** | **Free:** Free lifetime access currently available; iOS app. |
 | **TinyTools** | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **Open Source** | **100% Free:** No signup required. Open source. |
 
 

@@ -178,6 +178,7 @@
 | **Tudo** | AI task manager for iPhone that turns voice notes, screenshots, shared content, and complex goals into organized tasks and subtasks. | **Indie** | **Free:** Free lifetime access currently available; iOS app. |
 | **Telo** | AI wellness companion for iPhone using Apple Health context and user-logged events to understand readiness, recovery, sleep, and body-state trends. | **Indie** | **Free:** Free lifetime access currently available; iOS app. |
 | **TinyTools** | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **Open Source** | **100% Free:** No signup required. Open source. |
+| **[WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/)** | Browser-based AI story generator with prompt, genre, tone, and length controls. | **Indie** | **100% Free:** No signup required. |
 
 
 ## Contributing 🤝

@@ -56,6 +56,7 @@
 
 | Tool | Description | Company Size | Pricing & Free Tier |
 | :--- | :--- | :--- | :--- |
+| [GPTGeminiGrok.AI](https://trygrokai.asia/) | Browser workspace for GPT, Gemini, Grok, Claude, and AI image workflows. | **Indie** | **Free:** Limited daily requests. |
 | [Gemini](https://gemini.google.com) | excellent multimodal + Google integration | **$4.0T** (Google) | **Free:** Unlimited Flash models. **Advanced:** $19.99/mo. |
 | [Auferet](https://auferet.com) | AI game master that remembers your world: persistent memory for characters, places, and lore you upload; solo or multiplayer, 5e & Pathfinder 2e | Indie | **Free:** 10 actions/day, paid from $10/mo |
 | [ChatGPT](https://chatgpt.com) | still the most popular interface | **$852B** (OpenAI) | **Free:** Unlimited GPT-4o mini, limited GPT-4o. **Plus:** $20/mo. |

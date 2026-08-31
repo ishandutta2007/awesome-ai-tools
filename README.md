@@ -107,6 +107,7 @@
 | **ImagineClip** | AI video generator for social clips and stylized scenes. | **$5M+** (Est.) | **Free Trial** available. **Pro:** ~$15/mo. |
 | **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** | Local-first TypeScript CLI and MCP toolkit for coding-agent video production from editable timelines. | **Open Source** | **Free:** MIT-licensed; install from source. |
 | **TripoSR / InstantMesh / Rodin** | open 3D generation ([GitHub](https://github.com/VAST-AI/TripoSR)). | **Open Source** | **Free:** Open-source / Free to run locally. |
+| **Luphra** | prompt-to-matter: turns prompts/sketches into editable 3D and manufactured physical products ([luphra.com](https://www.luphra.com/)). | **Indie Tool** | **Freemium:** Free to try. |
 | **HairWow** | AI hairstyle try-on for previewing cuts, colors, beards | **$0** | **Freemium:** Free trial available; paid plans on site. |
 
 ## Audio, Music & Voice Tools 🎤🎵

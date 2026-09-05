@@ -125,6 +125,8 @@
 
 ## AI Agents & Autonomous Systems 🤖
 
+- [Agent QA](https://github.com/vostride/agent-qa) — Source-available agent for natural-language web, Android, and iOS application tests with execution memory.
+
 | Tool | Description | Company Size | Pricing & Free Tier |
 | :--- | :--- | :--- | :--- |
 | **AutoGen (Microsoft)** | Framework for multi-agent conversations | **$3.5T** (Microsoft) | **Free:** Open-source. |

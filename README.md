@@ -68,6 +68,7 @@
 | [You.com](https://you.com) | strong agentic features | **$1.5B** (You.com) | **Free:** 25-query trial. **Pro:** $20/mo ($15/mo annual). |
 | [DuckDuckGo AI](https://duckduckgo.com/aichat) | Private and anonymous AI chat. | **$1B+** (DuckDuckGo) | **Free:** Limited daily queries. **Plus:** $9.99/mo. |
 | [Jan.ai](https://jan.ai/) | Local, open-source AI desktop interface ([GitHub](https://github.com/janhq/jan)). | **Open Source** | **100% Free:** Runs locally on your hardware. |
+| [StudyArena](https://studyarena.com) | Compare anonymous AI answers to study questions, vote, then reveal the models. | Indie | **Free:** 3-model comparisons. **Supporter:** $20/mo for model choice and 6-model comparisons. |
 
 ## Code Generation & AI Coding Tools 💻
 

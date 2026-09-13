@@ -65,6 +65,7 @@
 | [Le Chat Mistral](https://chat.mistral.ai) | fastest European alternative | **$20B** (Mistral AI) | **Free:** Beta access, approx. 25 msgs/day. **Pro:** $14.99/mo. |
 | [HuggingChat](https://huggingface.co/chat/) | Open-source multi-model hub ([GitHub](https://github.com/huggingface/chat-ui)). | **$4.5B** (HuggingFace) | **Free:** High usage limits. **Pro:** $9/mo. |
 | [Poe](https://poe.com) | access almost every frontier model in one place | **$2.5B** (Quora) | **Free:** Compute point limits. **Subscription:** $19.99/mo. |
+| [WSUP AI](https://wsupai.app/) | Free AI character chat in the browser — talk to AI characters with no sign up. SFW only | Indie | **Free:** No sign up required |
 | [You.com](https://you.com) | strong agentic features | **$1.5B** (You.com) | **Free:** 25-query trial. **Pro:** $20/mo ($15/mo annual). |
 | [DuckDuckGo AI](https://duckduckgo.com/aichat) | Private and anonymous AI chat. | **$1B+** (DuckDuckGo) | **Free:** Limited daily queries. **Plus:** $9.99/mo. |
 | [Jan.ai](https://jan.ai/) | Local, open-source AI desktop interface ([GitHub](https://github.com/janhq/jan)). | **Open Source** | **100% Free:** Runs locally on your hardware. |

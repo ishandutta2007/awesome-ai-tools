@@ -140,6 +140,7 @@
 | **SuperAGI** | Infrastructure for autonomous AI agents | **$10M+** (Est.) | **Free:** Open-source / Limited cloud tier. |
 | **SmythOS** | Operating system for AI agents | **$10M+** (Est.) | **Free:** Basic access. **Pro:** ~$30/mo. |
 | **AI for Database** | database agent for PostgreSQL, MySQL, MongoDB. | **$5M+** (Est.) | **Free:** 1 connection, 50 queries. **Pro:** $29/mo. |
+| **Solgrok** | Autonomous Solana creator-ops agent ($SGROK) that promotes, claims fees, and runs 24/7 ([site](https://lmajster.github.io/sgrok/) / [GitHub](https://github.com/LMajster/sgrok)). | **Indie** | **Free:** Open-source. |
 
 ## Inference & Serving Platforms ⚡
 

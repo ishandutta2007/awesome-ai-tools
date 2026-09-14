@@ -175,6 +175,7 @@
 | Tool | Description | Company Size | Pricing & Free Tier |
 | :--- | :--- | :--- | :--- |
 | **Grammarly AI** | AI-powered writing assistant and editor. | **$13B** (Grammarly) | **Free:** Basic checks. **Pro:** $12/mo (annual). |
+| **[ResumeAI](https://withresumeai.com/)** | AI resume builder + free ATS checker. State of ATS 2026 (738 employers). | Indie | **Free:** 3 ATS/day anonymous, 10/day free account. |
 | **Gamma** | AI-powered presentations, docs, and sites. | **$2.1B** (Gamma) | **Free:** 400 credits. **Plus:** $8/mo. |
 | **Jasper AI** | Enterprise AI content platform. | **$1.5B** (Jasper) | **Pro:** $59/mo. |
 | **Otter.ai** | AI meeting assistant and transcription. | **$1.1B** (Otter) | **Free:** 300 mins/mo. **Pro:** $10/mo. |

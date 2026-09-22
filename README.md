@@ -102,6 +102,7 @@
 | **Black Forest Labs (Flux)** | best open-source image model ([GitHub](https://github.com/black-forest-labs/flux)). | **$3.25B** (BFL) | **Free:** Open weights (Dev/Schnell). **API:** ~$0.05/img. |
 | **Leonardo.Ai** | great for game assets | **$1B+** (Canva) | **Free:** 150 daily tokens. **Apprentice:** $12/mo. |
 | **Pika 2.0** | High-quality video generation | **$900M** (Pika Labs) | **Free:** 80 monthly credits. **Standard:** $10/mo. |
+| **[Magic Hour](https://magichour.ai/)** | AI platform for generating and editing videos, images, and audio. | **Indie Tool** | **Freemium:** Free plan available; paid plans on site. |
 | **Ideogram 2.0** | best text-in-image | **$500M+** (Ideogram) | **Free:** 10 slow credits/week. **Plus:** $20/mo ($15/mo annual). |
 | **Udio** | strong competitor to Suno | **$200M+** (Udio) | **Free:** 10 daily + 100 monthly credits. **Standard:** $10/mo. |
 | **Aurcue** | AI personal style assistant for styling from one photo. | **$10M+** (Est.) | **Free Trial** available. **Pro:** ~$10/mo. |

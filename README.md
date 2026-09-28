@@ -182,6 +182,7 @@
 | **Tudo** | AI task manager for iPhone that turns voice notes, screenshots, shared content, and complex goals into organized tasks and subtasks. | **Indie** | **Free:** Free lifetime access currently available; iOS app. |
 | **Telo** | AI wellness companion for iPhone using Apple Health context and user-logged events to understand readiness, recovery, sleep, and body-state trends. | **Indie** | **Free:** Free lifetime access currently available; iOS app. |
 | **TinyTools** | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **Open Source** | **100% Free:** No signup required. Open source. |
+| **SummarizAI** | On-page YouTube AI summary, chapters, chat, and Study flashcards for students | Indie | **Freemium:** Free plan for students; [summarizai.ink](https://summarizai.ink) |
 | **IdeaHunter** | Demand-backed app and micro-SaaS idea research for solo founders | **Indie** | **Freemium:** Free research entry point; subscription plans available. |
 | **AdMapix** | AI-powered advertising intelligence for researching competitor ad creatives and market trends. | **Indie** | **Freemium:** Free tier available. |
 

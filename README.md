@@ -153,6 +153,7 @@
 | **RunPod** | GPU cloud and serverless. | **$120M+** (RunPod) | **Paid:** ~$0.40/hr (Community GPUs). |
 | **OpenRouter** | multi-model API router | **$50M+** (Est.) | **Free:** Daily request limits on `:free` models. **Paid:** Model cost + 5% fee. |
 | **CoderPlan** | unified LLM API gateway for Claude, OpenAI, and Gemini. | **$5M+** (Est.) | **Pay-as-you-go:** ~0.7x official API rates. |
+|**[eirouter.ai](https://eirouter.ai)**|Claude/GPT API relay at 10-30% of official pricing, $3 free credit for new users.|-|**Free:**$3 credit for new users.|
 
 ## Best Open-Source LLMs 2026 🆓
 

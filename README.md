@@ -184,6 +184,7 @@
 | **TinyTools** | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **Open Source** | **100% Free:** No signup required. Open source. |
 | **IdeaHunter** | Demand-backed app and micro-SaaS idea research for solo founders | **Indie** | **Freemium:** Free research entry point; subscription plans available. |
 | **AdMapix** | AI-powered advertising intelligence for researching competitor ad creatives and market trends. | **Indie** | **Freemium:** Free tier available. |
+| **[LogNorm](https://lognorm.com)** | SEO and GEO growth backlog worked by AI agents (Claude Code, Codex, Cursor) via MCP; fixes verified on the live site. | **Indie** | **Free:** 1 website. **Paid:** from $99/mo. |
 
 
 ## Contributing 🤝

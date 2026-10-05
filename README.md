@@ -124,6 +124,7 @@
 | **Cartesia** | ultra-low latency TTS | **$100M+** (Est.) | **Free Trial** available. **Pay-as-you-go** API. |
 | **Resemble AI** | Real-time AI voice cloning and generation. | **$25M** (Resemble) | **Free:** 1,000 chars. **Basic:** $0.006/sec. |
 | **Spark-TTS** | best open-source TTS ([GitHub](https://github.com/SparkAudio/Spark-TTS)). | **Open Source** | **Free:** Open-source. |
+| [AI Group Call](https://aigroupcall.app) | Practice pitches and interviews against a panel of AI voices that push back live, then share the transcript. | - | iOS + Android app |
 
 ## AI Agents & Autonomous Systems 🤖
 

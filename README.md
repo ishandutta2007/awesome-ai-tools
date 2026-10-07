@@ -111,6 +111,7 @@
 | **TripoSR / InstantMesh / Rodin** | open 3D generation ([GitHub](https://github.com/VAST-AI/TripoSR)). | **Open Source** | **Free:** Open-source / Free to run locally. |
 | **Luphra** | prompt-to-matter: turns prompts/sketches into editable 3D and manufactured physical products ([luphra.com](https://www.luphra.com/)). | **Indie Tool** | **Freemium:** Free to try. |
 | **HairWow** | AI hairstyle try-on for previewing cuts, colors, beards | **$0** | **Freemium:** Free trial available; paid plans on site. |
+| **[MyPhotoAI](https://myphotoai.io/)** | Turn your selfies into AI headshots and portraits. | | One-time payment per shoot. US$5 for 3 photos; US$10 for all photos from one shoot. Local-currency pricing may differ. |
 
 ## Audio, Music & Voice Tools 🎤🎵
 

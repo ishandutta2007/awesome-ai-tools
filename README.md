@@ -184,6 +184,7 @@
 | **TinyTools** | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **Open Source** | **100% Free:** No signup required. Open source. |
 | **IdeaHunter** | Demand-backed app and micro-SaaS idea research for solo founders | **Indie** | **Freemium:** Free research entry point; subscription plans available. |
 | **AdMapix** | AI-powered advertising intelligence for researching competitor ad creatives and market trends. | **Indie** | **Freemium:** Free tier available. |
+| **[AI Compare](https://www.aicompare.ninja/en/)** | Editorial AI-tool comparison with sourced prices and limits, plus an LLM API cost calculator. | **Personal project** | **Free:** Catalog and calculator; no signup required. |
 
 
 ## Contributing 🤝

@@ -184,6 +184,7 @@
 | **TinyTools** | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **Open Source** | **100% Free:** No signup required. Open source. |
 | **IdeaHunter** | Demand-backed app and micro-SaaS idea research for solo founders | **Indie** | **Freemium:** Free research entry point; subscription plans available. |
 | **AdMapix** | AI-powered advertising intelligence for researching competitor ad creatives and market trends. | **Indie** | **Freemium:** Free tier available. |
+| **[CareJobs AI Career Tools](https://carejobs.now/tools)** | Free AI cover letter generator, resume bullet writer, interview coach, job posting decoder, offer negotiation email and resignation letter writers for healthcare workers. | **Indie** | **100% Free:** No sign-up required. |
 
 
 ## Contributing 🤝

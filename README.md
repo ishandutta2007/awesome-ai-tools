@@ -39,6 +39,7 @@
 - [LLM Chat Interfaces & Frontends](#llm-chat-interfaces--frontends-💬)
 - [Code Generation & AI Coding Tools](#code-generation--ai-coding-tools-💻)
 - [Image, Video & 3D Generation](#image-video--3d-generation-🖼️🎥)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 - [Audio, Music & Voice Tools](#audio-music--voice-tools-🎤🎵)
 - [AI Agents & Autonomous Systems](#ai-agents--autonomous-systems-🤖)
 - [Best Open-Source LLMs (2026)](#best-open-source-llms-2026-🆓)

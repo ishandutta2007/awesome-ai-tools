@@ -186,6 +186,10 @@
 | **AdMapix** | AI-powered advertising intelligence for researching competitor ad creatives and market trends. | **Indie** | **Freemium:** Free tier available. |
 
 
+| [BeforeGo](https://beforegotech.com) | Minimalist trip prep & destination-aware packing checklist app for iOS that eliminates travel anxiety. | **Indie** | **Free:** Free trial & iOS app. |
+| [Countdown Widget](https://beforego.art/countdown) | Aesthetic iOS countdown widget for tracking trips, exams, birthdays, and life milestones. | **Indie** | **Free:** iOS app. |
+| [Free Invoice Studio](https://beforego.art/tools/invoice-template/) | Free client-side invoice generator and customizable QR code creator for freelancers and small businesses. | **Open Source** | **100% Free:** No signup required. |
+
 ## Contributing 🤝
 
 **We want your help to keep this list the best AI tools directory on GitHub!**

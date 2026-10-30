@@ -184,6 +184,7 @@
 | **TinyTools** | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **Open Source** | **100% Free:** No signup required. Open source. |
 | **IdeaHunter** | Demand-backed app and micro-SaaS idea research for solo founders | **Indie** | **Freemium:** Free research entry point; subscription plans available. |
 | **AdMapix** | AI-powered advertising intelligence for researching competitor ad creatives and market trends. | **Indie** | **Freemium:** Free tier available. |
+| [CurlShot](https://curlshot.com) | Screenshot API with an MCP server, so apps and AI agents can capture any web page as an image, PDF or scrolling video. | Indie | **Free:** 100 screenshots/month, no card. **Paid:** from $19/mo. |
 
 
 ## Contributing 🤝

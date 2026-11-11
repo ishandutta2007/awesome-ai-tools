@@ -111,6 +111,7 @@
 | **TripoSR / InstantMesh / Rodin** | open 3D generation ([GitHub](https://github.com/VAST-AI/TripoSR)). | **Open Source** | **Free:** Open-source / Free to run locally. |
 | **Luphra** | prompt-to-matter: turns prompts/sketches into editable 3D and manufactured physical products ([luphra.com](https://www.luphra.com/)). | **Indie Tool** | **Freemium:** Free to try. |
 | **HairWow** | AI hairstyle try-on for previewing cuts, colors, beards | **$0** | **Freemium:** Free trial available; paid plans on site. |
+| **[Vidney](https://vidney.ai/)** | Browser workspace for text-to-video, image-to-video and pet-photo video effects with shared credits. | Not disclosed | Free signup credits; paid credit plans. |
 
 ## Audio, Music & Voice Tools 🎤🎵
 

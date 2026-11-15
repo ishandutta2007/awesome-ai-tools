@@ -69,6 +69,7 @@
 | [DuckDuckGo AI](https://duckduckgo.com/aichat) | Private and anonymous AI chat. | **$1B+** (DuckDuckGo) | **Free:** Limited daily queries. **Plus:** $9.99/mo. |
 | [Jan.ai](https://jan.ai/) | Local, open-source AI desktop interface ([GitHub](https://github.com/janhq/jan)). | **Open Source** | **100% Free:** Runs locally on your hardware. |
 | [StudyArena](https://studyarena.com) | Compare anonymous AI answers to study questions, vote, then reveal the models. | Indie | **Free:** 3-model comparisons. **Supporter:** $20/mo for model choice and 6-model comparisons. |
+| [Sammi](https://sammiai.app/) | Android fictional-character text and voice chat with creative roleplay. | Not disclosed | Free download; optional in-app purchases. |
 
 ## Code Generation & AI Coding Tools 💻
 

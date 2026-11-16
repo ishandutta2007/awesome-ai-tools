@@ -180,7 +180,7 @@
 | **Otter.ai** | AI meeting assistant and transcription. | **$1.1B** (Otter) | **Free:** 300 mins/mo. **Pro:** $10/mo. |
 | **Copy.ai** | AI marketing and sales automation. | **$500M** (Copy.ai) | **Free:** 2,000 words/mo. **Pro:** $36/mo. |
 | **Tudo** | AI task manager for iPhone that turns voice notes, screenshots, shared content, and complex goals into organized tasks and subtasks. | **Indie** | **Free:** Free lifetime access currently available; iOS app. |
-| **Telo** | AI wellness companion for iPhone using Apple Health context and user-logged events to understand readiness, recovery, sleep, and body-state trends. | **Indie** | **Free:** Free lifetime access currently available; iOS app. |
+| **[Telo](https://telo.ferryman.app/)** | Apple Health wellness app for iPhone and Apple Watch with optional Codex and Claude Desktop integrations. | **Indie** | Freemium: Free to download with optional in-app purchases. |
 | **TinyTools** | Free browser-based utilities: AI background remover, AI cost calculator, SEO tools, and more. | **Open Source** | **100% Free:** No signup required. Open source. |
 | **IdeaHunter** | Demand-backed app and micro-SaaS idea research for solo founders | **Indie** | **Freemium:** Free research entry point; subscription plans available. |
 | **AdMapix** | AI-powered advertising intelligence for researching competitor ad creatives and market trends. | **Indie** | **Freemium:** Free tier available. |

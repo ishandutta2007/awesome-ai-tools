@@ -174,6 +174,7 @@
 
 | Tool | Description | Company Size | Pricing & Free Tier |
 | :--- | :--- | :--- | :--- |
+| [ChatSequel](https://vertexforth.com/en/prax9/chatsequel/) | Free Chrome and Edge extension that continues ChatGPT responses after a chosen delay, with per-tab controls and context handoff. | **Not disclosed** (Prax9) | **Free:** Browser extension. |
 | **Grammarly AI** | AI-powered writing assistant and editor. | **$13B** (Grammarly) | **Free:** Basic checks. **Pro:** $12/mo (annual). |
 | **Gamma** | AI-powered presentations, docs, and sites. | **$2.1B** (Gamma) | **Free:** 400 credits. **Plus:** $8/mo. |
 | **Jasper AI** | Enterprise AI content platform. | **$1.5B** (Jasper) | **Pro:** $59/mo. |

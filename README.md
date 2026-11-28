@@ -110,6 +110,7 @@
 | **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** | Local-first TypeScript CLI and MCP toolkit for coding-agent video production from editable timelines. | **Open Source** | **Free:** MIT-licensed; install from source. |
 | **TripoSR / InstantMesh / Rodin** | open 3D generation ([GitHub](https://github.com/VAST-AI/TripoSR)). | **Open Source** | **Free:** Open-source / Free to run locally. |
 | **Luphra** | prompt-to-matter: turns prompts/sketches into editable 3D and manufactured physical products ([luphra.com](https://www.luphra.com/)). | **Indie Tool** | **Freemium:** Free to try. |
+| **[Tweenery](https://tweenery.com)** | AI agent that turns an idea or a post you like into a ready-to-post Instagram carousel or TikTok slideshow. | **Indie Tool** | **Freemium:** 150 free credits at signup; paid from $10/mo. |
 | **HairWow** | AI hairstyle try-on for previewing cuts, colors, beards | **$0** | **Freemium:** Free trial available; paid plans on site. |
 
 ## Audio, Music & Voice Tools 🎤🎵
